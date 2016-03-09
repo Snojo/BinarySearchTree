@@ -48,13 +48,13 @@ BinaryNode<T>* BinarySearchTree<T>::find(const T& anItem) const // Retrieves the
 template <class T>
 BinaryNode<T>* BinarySearchTree<T>::maxNode() const
 {
-
+    return 0;
 }
 
 template <class T>
 BinaryNode<T>* BinarySearchTree<T>::minNode() const
 {
-
+    return 0;
 }
 
 template <class T>
